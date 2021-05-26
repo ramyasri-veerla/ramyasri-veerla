@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramyasri-veerla
+- 👋 Hi, I’m @ramyasri-veerla, a freelancer.
 - 👀 I’m interested in native app development for mobile.
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on developing the mobile app solutions with native development.
